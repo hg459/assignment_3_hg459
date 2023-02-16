@@ -6,7 +6,7 @@ navbar:
     - text: "Hannah"
       href: Hannah.html
     - text: "Marjorie"
-      href: Marjorie.html  
+      href: marjorie.html  
 output_dir: "."
 output:
   html_document:
