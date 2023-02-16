@@ -7,3 +7,11 @@ navbar:
       href: Hannah.html
     - text: "Marjorie"
       href: marjorie.html  
+output_dir: "."
+output:
+  html_document:
+    theme: green
+    highlight: textmate
+    toc: true 
+    toc_float: true   
+    
