@@ -1,7 +1,8 @@
-output_dir: "."
+name: Assignment 3 website
 navbar:
+  title: "Assignment 3 website"
   left:
-    - text: "Home"
+    - text: "Index"
       href: index.html
     - text: "Hannah"
       href: Hannah.html
@@ -10,8 +11,7 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: green
+    theme: cerulean
     highlight: textmate
     toc: true 
-    toc_float: true   
-    
+    toc_float: true 
