@@ -9,9 +9,3 @@ navbar:
     - text: "marjorie"
       href: marjorie.html  
 output_dir: "."
-output:
-  html_document:
-    theme: cerulean
-    highlight: textmate
-    toc: true 
-    toc_float: true 
